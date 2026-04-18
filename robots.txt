@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cybertruckseatcovers.com/sitemap.xml
