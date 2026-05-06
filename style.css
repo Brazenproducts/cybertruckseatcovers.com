@@ -16,9 +16,9 @@ nav{background:#050505;border-bottom:1px solid var(--border);padding:0 20px;posi
 
 /* HERO */
 .hero{background:linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.65)),url('https://images.unsplash.com/photo-1714769476662-446b45e6d680?w=1400&q=80') center/cover no-repeat;padding:80px 20px;text-align:center;border-bottom:1px solid var(--border)}
-.hero h1{font-size:2.6rem;font-weight:800;color:#fff;margin-bottom:12px;letter-spacing:-1px}
+.hero h1{font-size:2.6rem;font-weight:800;color:#ffffff;margin-bottom:12px;letter-spacing:-1px;text-shadow:0 2px 10px rgba(0,0,0,.4)}
 .hero h1 span{color:var(--accent)}
-.hero p{font-size:1.15rem;color:var(--text2);max-width:700px;margin:0 auto 24px}
+.hero p{font-size:1.15rem;color:#e0e0e0;max-width:700px;margin:0 auto 24px;text-shadow:0 2px 10px rgba(0,0,0,.4)}
 
 /* CONTAINER */
 .container{max-width:1200px;margin:0 auto;padding:40px 20px}
